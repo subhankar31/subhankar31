@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subhankar31
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning B-Tech in Computer Science and Engineering
+- 🌱 I have around total 4 years of experience into this Field.
 - 💞️ I’m looking to collaborate on various Open Source projects
 - 📫 How to reach me -- Just Fork my Repo and send pull request or add me to your collaborators
 
